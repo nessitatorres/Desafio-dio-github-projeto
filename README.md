@@ -2,3 +2,8 @@
 Repositório Git Github
 ## Links úteis
 [Markdown básico](https://www.markdownguide.org/basic-syntax/)
+
+
+
+Pontos importantes:
+
