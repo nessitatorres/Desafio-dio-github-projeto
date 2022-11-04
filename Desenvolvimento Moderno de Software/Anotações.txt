@@ -3,3 +3,14 @@ Desenvolvimento moderno de Software
 Wireframe - Cara do software
 Front-end -HTML/CSS/Javascript
 IDE - Ambiente de desenvolvimento integrado, software para criar aplicações que combinam ferramentas omuns de desenvolvimento em uma única interface gráfica do usuário GUI
+
+Frameworks - Facilitador. Ele traz diversas soluções pré definidas (angular, laravel)
+
+Back end- Trabalha fazendo a ponte entre os dados que vem do navegador rumo ao banco de dados e vice e versa. Sempre aplicando a devidas regras do negócio, validações e garantias em um ambiente onde o usuário não tenha acesso e possam manipular algo ( Java/ PHP e C#)
+
+API- Aplication Plogramming Interface - um intermediário de software que permite que dois aplicativos conversem entre si. Cada que o Facebook manda mensagem instantanea, ou que você vê a previsão do tempo, está usando um API
+
+Desenvolvedor Full Stack- Trabalha tanto no front end, como no back end
+
+QA Quality assurance- Responsável por entregar produtos de alto nível
+
