@@ -1,10 +1,5 @@
-##Desenvolvimento moderno de software
+Desenvolvimento moderno de Software
 
-#####Wireframe
-######Cara do software
-
-#####Front-end
-######HTML/CSS/Javascript
-
-#####IDE
-###### Ambiente de desenvolvimento integrado, software para criar aplicações que combinam ferramentas omuns de desenvolvimento em uma única interface gráfica do usuário GUI
+Wireframe - Cara do software
+Front-end -HTML/CSS/Javascript
+IDE - Ambiente de desenvolvimento integrado, software para criar aplicações que combinam ferramentas omuns de desenvolvimento em uma única interface gráfica do usuário GUI
